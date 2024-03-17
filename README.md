@@ -8,4 +8,4 @@ This is a simple calculator with a simple graphical user interface (GUI).
 2) HTML
 3) CSS
 
-![Image Description](
+![Image Description](https://github.com/Vaibhavpasalkar12/CodSoft_Calculator/blob/main/SS.png)
